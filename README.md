@@ -3,6 +3,8 @@ Aplikasi sistem Talent Match Intelligence digunakan untuk membantu pemimpin meng
 
 Untuk penggunanya perlu upload terlebih dahulu file excell hasil dari Skor Talent dan tingkat kesesuaian (match rate) dari masing-masing pegawai.
 
+Untuk mengakses app dapat dilihat di link berikut : https://talent-match-app-25pc49donxyjo3kyp6qcgt.streamlit.app/
+
 Catatan : Apabila ada error di bagian Job description maka tunggu beberapa detik/menit dan run lagi. Biasanya dari server Gemini nya.
 
 Contoh tampilan dashboard :
